@@ -39,4 +39,13 @@ Scalable and schema-flexible
 
 Upload and optimize blog images
 
-Fast content delivery through CDN
+Fast content delivery through 
+
+**GSSOC 2025 Goals
+We are looking for contributors who can help with:
+
+- 🤖 Integrating AI/ML features (e.g., blog content generation, summarization)
+- 🎨 Improving the UI to have smooth animations and modern design (like a motion website)
+- 🐞 Fixing bugs and improving overall performance
+
+Whether you're a beginner or expert, your contribution is welcome!**
